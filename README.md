@@ -43,6 +43,19 @@ This is a 2D Flappy Bird game with added features such as a coin system, highsco
 
 - Post your name along with your highscore to https://danqzq.itch.io/leaderboard-creator (Only the game creator can view the player scores).
 
+## Screenshots
+
+![Gameplay Screenshot 1](screenshots/home.png)
+
+
+![Gameplay Screenshot 2](screenshots/instruction.png)
+
+
+![Gameplay Screenshot 2](screenshots/g1.png)
+
+
+![Gameplay Screenshot 2](screenshots/g2.png)
+
 ## Contributing
 
 Feel free to contribute to the project by opening issues or creating pull requests.
