@@ -1,7 +1,5 @@
 # BirdGame
 
-# Flappy Bird Game
-
 ## Description
 
 This is a 2D Flappy Bird game with added features such as a coin system, highscore tracking, and special powers. Players can collect coins to increase their highscore, and use special powers for a limited duration.
